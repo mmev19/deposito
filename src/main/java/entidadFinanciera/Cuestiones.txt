@@ -1,0 +1,9 @@
+1.¿Cuál es la diferencia entre la función de "Branch" y la de "Tag" que tienen los sistemas de control de versiones?
+Tag es la etiqueta que marca un módulo completo o conjunto de archivos para indicar alguna información importante. Branch es la revisión paralela de un módulo para efectuar cambios sin tocar la evolución principal.
+
+2.Explica para qué se usa la etiqueta @since. Indica también si hay alguna etiqueta que documente qué excepciones propaga un método.
+Para indicar la fecha desde la que está presente la clase.
+Para las excepciones se utilizan @exception y @throws.
+  
+3.Indica las etiquetas obligatorias usadas en la cabecera de una clase.
+No existen etiquetas obligatorias, pero se suelen usar @author para indicar el nombre del programador y @version indicando la versión del programa.
